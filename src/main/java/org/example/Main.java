@@ -24,9 +24,9 @@ public class Main {
 
                     case 1:  // addition
                         System.out.println("Add two numbers!! \n");
-                        System.out.print("Enter number1: \n");
+                        System.out.print("Enter number one : \n");
                         num = reader.nextInt();
-                        System.out.print("Enter number2: \n");
+                        System.out.print("Enter number two : \n");
                         exp = reader.nextInt();
                         break;
 
