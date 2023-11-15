@@ -39,7 +39,7 @@ public class Main {
                         break;
 
                     case 3: // Multiply
-                        System.out.println("Multiply two numbers!!\n");
+                        System.out.println("Multiplication of  two numbers!!\n");
                         System.out.print("Enter number1: \n");
                         num = reader.nextInt();
                         System.out.print("Enter number2: \n");
