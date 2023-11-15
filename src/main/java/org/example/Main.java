@@ -31,7 +31,7 @@ public class Main {
                         break;
 
                     case 2: // Subtract
-                        System.out.println("Subtract two numbers!!\n");
+                        System.out.println("Subtraction of 2 numbers!!\n");
                         System.out.print("Enter number1: \n");
                         num = reader.nextInt();
                         System.out.print("Enter number2: \n");
