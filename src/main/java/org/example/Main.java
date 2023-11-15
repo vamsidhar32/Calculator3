@@ -11,7 +11,7 @@ public class Main {
 
         do {
             System.out.println("Operation:\n");
-            System.out.println("1. Add");
+            System.out.println("1. Addition");
             System.out.println("2. Subtraction");
             System.out.println("3. Multiplication");
             System.out.println("4. Percentile");
